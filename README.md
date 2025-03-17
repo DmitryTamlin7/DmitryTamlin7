@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://instagram.com/tam1in_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tam1in_7" height="30" width="40" /></a>
 <a href="https://discord.gg/gureevdmitrij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gureevdmitrij" height="30" width="40" /></a>
-<a href="https://vk.com/tam1in_7" target="blank"><img align="center" src="pix/vk.svg" alt="gureevdmitrij" height="30" width="40" color= #0077FF /></a> target="blank"><img align="center" src="pix/mtuci_logo.0a97624b.png" alt="tam1in7" height="45" width="130" /></a>
+<a href="https://vk.com/tam1in_7" target="blank"><img align="center" src="pix/vk.svg" alt="gureevdmitrij" height="30" width="40" color= #0077FF /></a>  
 
 
 </p>
